@@ -1,21 +1,21 @@
 {
-  "reviewVersion": "20260913-five-r52",
+  "reviewVersion": "20260913-five-r53",
   "characters": 27,
   "files": [
     {
       "file": "viewer.js",
-      "bytes": 622708,
-      "sha256": "ea30fa175dd416f77f954d29078e07c146238f8a4c9e452a622a075f8d417cd0"
+      "bytes": 623540,
+      "sha256": "5299136808a8e2b354aab7e582ff70fd80d604a519176ceb2cd189934e6003f0"
     },
     {
       "file": "anime-girl/character-4k.glb",
-      "bytes": 6161036,
-      "sha256": "5dba5355fdabcce6c1ebfe011019be76e29002129a3e9cd6681c5cb9f71f8afc"
+      "bytes": 6656008,
+      "sha256": "39a31250dca87a93e1a5322f647e58f4a58d010bcc01d8b5df47460c2858f83b"
     },
     {
       "file": "anime-girl/character-2k.glb",
-      "bytes": 2703972,
-      "sha256": "ddb863e96cfe4a8fc55c804488606ad2bf148c655c808b31dbbb06ff64d49adb"
+      "bytes": 3198936,
+      "sha256": "da83029c8ccee45c9dd6087c19091f254b781c5f82a5be942d66541004f65ae0"
     },
     {
       "file": "anime-girl/source.glb",
