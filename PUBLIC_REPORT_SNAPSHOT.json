@@ -1,15 +1,13 @@
 {
   "schemaVersion": 1,
   "reportStatus": "草稿",
-  "generatedAtUTC": "2026-09-13T05:38:21+00:00",
-  "viewerVersion": "20260913-five-r54",
+  "generatedAtUTC": "2026-09-13T05:53:29+00:00",
+  "viewerVersion": "20260913-five-r59",
   "characterCount": 27,
   "independentClipCount": 135,
-  "roundPublished": 11,
+  "roundPublished": 12,
   "roundTargetCount": 12,
-  "pendingRound": [
-    4
-  ],
+  "pendingRound": [],
   "inventoryMatchesCurrentAssets": false,
   "userAcceptedAll": false,
   "gameFurnitureIntegrationVerified": false,
@@ -48,7 +46,7 @@
       "number": 2,
       "id": "gothic-catgirl",
       "label": "2 號 · 哥德貓娘",
-      "status": "本輪修正已提交",
+      "status": "本輪修正已提交；長髮躺姿待修正",
       "roundRepair": "躺姿前裙從真腰根向腿部壓低，保留原腿距與頭背接床。",
       "roundPublished": true,
       "revision": "20260913-five-r50",
@@ -71,7 +69,7 @@
       },
       "latestAssetCommit": "b286ed693650327a5b00bf55770e078199b1cf13",
       "currentAssetsCommitted": true,
-      "limitations": "保留原短裙內小縫及下襬層疊，髮尾與配件可自然入家具；不宣稱完美遮擋或碰撞解算。"
+      "limitations": "保留原短裙內小縫及下襬層疊，髮尾與配件可自然入家具；不宣稱完美遮擋或碰撞解算。 新增長髮角度回饋尚待修正與獨立覆核。"
     },
     {
       "number": 3,
@@ -106,10 +104,10 @@
       "number": 4,
       "id": "anime-butterfly-character",
       "label": "4 號 · 蝴蝶角色",
-      "status": "本輪修正待發布",
-      "roundRepair": "r51 已完成躺裙壓低；新回饋要求依真背軀幹修正懸空，保留翅膀原形與其餘四動作。",
-      "roundPublished": false,
-      "revision": "20260913-five-r54",
+      "status": "本輪修正已提交",
+      "roundRepair": "r58 將支撐與髮轉角縮至 r51→r54 半幅；保留原髮罩及自然頭頸、原壓裙修正。",
+      "roundPublished": true,
+      "revision": "20260913-five-r58",
       "actions": [
         "idle",
         "walk",
@@ -120,22 +118,22 @@
       "assets": {
         "4k": {
           "file": "anime-butterfly-character/character-4k.glb",
-          "sha256": "cd7a860b1dd698aaa1a9370cefedfed3ed35bc6126e1ae0a43e1439ae9bf88f7"
+          "sha256": "061c89205e0f89ccd07b926b4fa83b45089767a088d4b3b1a3ef4f688bbf1a61"
         },
         "2k": {
           "file": "anime-butterfly-character/character-2k.glb",
-          "sha256": "d37eb4978d653c3eb7ccfc3bcfb74b4336774bbf0793d0210c7c0f2d4114c7b7"
+          "sha256": "10f7c60dc7e952dfda27bb3393a6780eda17096c75b74d7a97507b60cfd69fb5"
         }
       },
-      "latestAssetCommit": "90aaa99795d70a3af3f387d0b53ec88f54e88533",
+      "latestAssetCommit": "6fd20a928c1fa3c3f22186cd877a72a6cab1c5db",
       "currentAssetsCommitted": true,
-      "limitations": "使用者新指出躺姿軀幹懸空，正在重查真正主背部支撐；原 r51 壓裙成果保留。 髮尾、背花與翅膀仍可入床；保留原短裙內小縫與層疊，不宣稱碰撞解算。"
+      "limitations": "保留上背約82mm、腰背48mm間隙與更多髮尾/翼入床；不追求完全貼床，保留原短裙小縫和層疊。"
     },
     {
       "number": 5,
       "id": "angelic-chibi-character",
       "label": "5 號 · 天使角色",
-      "status": "保留已發布版本",
+      "status": "保留已發布版本；長髮躺姿待修正",
       "roundRepair": "",
       "roundPublished": false,
       "revision": "較早五動作版本",
@@ -158,13 +156,13 @@
       },
       "latestAssetCommit": "b8641cc4cbc213cf1ed6ff5e01666fe92e6575fb",
       "currentAssetsCommitted": true,
-      "limitations": "5號躺姿修正：頭頸調整減少主頭部埋床；保留原腿距，讓裙片本身繞前裙腰向腿部壓低，減少腳端開口。原模型、貼圖與另外四個動作完全不變。低視仍可見部分大腿上緣、衣內層及裙腰窄V陰影；後髮自然入床。"
+      "limitations": "5號躺姿修正：頭頸調整減少主頭部埋床；保留原腿距，讓裙片本身繞前裙腰向腿部壓低，減少腳端開口。原模型、貼圖與另外四個動作完全不變。低視仍可見部分大腿上緣、衣內層及裙腰窄V陰影；後髮自然入床。 新增長髮角度回饋尚待修正與獨立覆核。"
     },
     {
       "number": 6,
       "id": "anime-cat-girl-1",
       "label": "6 號 · 紫髮月飾貓娘",
-      "status": "保留已發布版本",
+      "status": "保留已發布版本；長髮躺姿待修正",
       "roundRepair": "",
       "roundPublished": false,
       "revision": "較早五動作版本",
@@ -187,7 +185,7 @@
       },
       "latestAssetCommit": "61fcc1f9ba2962acd298de581d7f1788b8aec010",
       "currentAssetsCommitted": true,
-      "limitations": "6號退修完成：前裙有獨立有效權重，隨跨步讓出腿部空間；胸側衣改由軀幹主控，手臂走跑縮為14/20度。躺姿主頭部抬出床面，坐裙自身覆膝，保留自然馬尾與原腿距。原4K、UV、幾何不變，39骨、五動作，髮衣及飾品仍有自然擺動。"
+      "limitations": "6號退修完成：前裙有獨立有效權重，隨跨步讓出腿部空間；胸側衣改由軀幹主控，手臂走跑縮為14/20度。躺姿主頭部抬出床面，坐裙自身覆膝，保留自然馬尾與原腿距。原4K、UV、幾何不變，39骨、五動作，髮衣及飾品仍有自然擺動。 新增長髮角度回饋尚待修正與獨立覆核。"
     },
     {
       "number": 7,
@@ -251,7 +249,7 @@
       "number": 9,
       "id": "anime-character-1",
       "label": "9 號 · 鹿角角色",
-      "status": "本輪修正已提交",
+      "status": "本輪修正已提交；長髮躺姿待修正",
       "roundRepair": "保留軀幹背部接床，減少躺姿主頭輪廓埋床。",
       "roundPublished": true,
       "revision": "20260913-five-r52",
@@ -274,7 +272,7 @@
       },
       "latestAssetCommit": "9db425eb90c4a5af8fa5d77b64249f4b99b18a6f",
       "currentAssetsCommitted": true,
-      "limitations": "保留原衣領與褲腰層疊、馬尾入床；原走20/跑23/坐6條拉伸旗標未改，躺姿無旗標。未宣稱使用者或遊戲整合接受。"
+      "limitations": "保留原衣領與褲腰層疊、馬尾入床；原走20/跑23/坐6條拉伸旗標未改，躺姿無旗標。未宣稱使用者或遊戲整合接受。 新增長髮角度回饋尚待修正與獨立覆核。"
     },
     {
       "number": 10,
@@ -309,7 +307,7 @@
       "number": 11,
       "id": "anime-character-3",
       "label": "11 號 · 長髮層裙角色",
-      "status": "保留已發布版本",
+      "status": "保留已發布版本；長髮躺姿待修正",
       "roundRepair": "",
       "roundPublished": false,
       "revision": "較早五動作版本",
@@ -332,7 +330,7 @@
       },
       "latestAssetCommit": "87b041b9edcf00bd961ac2c43c934b690b223d42",
       "currentAssetsCommitted": true,
-      "limitations": "11號長髮層裙角色：原肩袖真切邊接合後獨立綁28核心骨，五動作含身體節奏與髮衣／腰飾滯後；原18600面、UV、4K JPEG保留，另有2K。坐躺僅改裙骨動畫，裙片本身覆腿，沒有併腿。 坐姿長衣片與髮束可局部入椅；躺姿長髮與尾片入床，低腳端仍見大腿邊緣與裙內陰影，不宣稱零曝光或完整家具互動。"
+      "limitations": "11號長髮層裙角色：原肩袖真切邊接合後獨立綁28核心骨，五動作含身體節奏與髮衣／腰飾滯後；原18600面、UV、4K JPEG保留，另有2K。坐躺僅改裙骨動畫，裙片本身覆腿，沒有併腿。 坐姿長衣片與髮束可局部入椅；躺姿長髮與尾片入床，低腳端仍見大腿邊緣與裙內陰影，不宣稱零曝光或完整家具互動。 新增長髮角度回饋尚待修正與獨立覆核。"
     },
     {
       "number": 12,
@@ -425,10 +423,10 @@
       "number": 15,
       "id": "anime-chibi-character",
       "label": "15 號 · 白髮長袍角色",
-      "status": "本輪修正已提交；長髮躺姿待修正",
+      "status": "本輪修正已提交；長髮修正已發布",
       "roundRepair": "原肩後假黏連髮片接回真正馬尾根。",
       "roundPublished": true,
-      "revision": "20260913-five-r45",
+      "revision": "20260913-five-r56",
       "actions": [
         "idle",
         "walk",
@@ -439,25 +437,25 @@
       "assets": {
         "4k": {
           "file": "anime-chibi-character/character-4k.glb",
-          "sha256": "dcbe94bb0116a02aba7008e19be8dfe037c09a26b86f308c000b21972f8b84cd"
+          "sha256": "2cfe502427b076797196bb7975104f15574e345e0643a662422672532bd1b4bc"
         },
         "2k": {
           "file": "anime-chibi-character/character-2k.glb",
-          "sha256": "2ddf366527a067d4057961e9cdd981f929d3254f9e61e31fafb2ed9dc99366ec"
+          "sha256": "ab15261e9b660ce48f67caadef11b17c3051e225b7cd3dd983ad2abc4c041360"
         }
       },
-      "latestAssetCommit": "e2b56f9d3703fb60fe6a9ddcfe464632a09229dd",
+      "latestAssetCommit": "3e5753a6ad743cfe4c3d1d5c3414dd395cc60963",
       "currentAssetsCommitted": true,
-      "limitations": "保留原領後窄暗楔、長袍與褲層交疊及局部衣腿摺線；馬尾與衣襬可自然入家具。未被引用的舊髮片export記錄與Cloth.backRibbon骨不計作可見次級動態。 新增長髮角度回饋尚待修正與獨立覆核。"
+      "limitations": "保留原領後窄暗楔、長袍褲層交疊與衣腿摺線；馬尾中末段仍可入床。本輪保留短髮罩與既有移回馬尾的髮段，不追求整束浮到床面。原idle/walk/run/sit旗標0/50/107/36逐bytes不變；lie0→0，最大比值5.729原值。"
     },
     {
       "number": 16,
       "id": "anime-chibi-girl",
       "label": "16 號 · 花飾長髮角色",
-      "status": "本輪修正已提交；長髮躺姿待修正",
+      "status": "本輪修正已提交；長髮修正已發布",
       "roundRepair": "後髮根與深色小蝴蝶結回到相鄰髮域；改善裙腰與後跨步。",
       "roundPublished": true,
-      "revision": "20260913-five-r44",
+      "revision": "20260913-five-r55",
       "actions": [
         "idle",
         "walk",
@@ -468,16 +466,16 @@
       "assets": {
         "4k": {
           "file": "anime-chibi-girl/character-4k.glb",
-          "sha256": "cdf1abe742cbd7132790630a27b15670a62292ee9730a7d2f385b34059ce9df5"
+          "sha256": "15027a5f0adceb2dcdd9919ba8294415dad65c4e5f1ce22374582be1554e1b9e"
         },
         "2k": {
           "file": "anime-chibi-girl/character-2k.glb",
-          "sha256": "f5c02cbddabfd70ef030090265d3f5b80896d3072ba3f58dfb83097cb5154d62"
+          "sha256": "605f6756945c5ff3f48caca9ad2c0ddaaa77b892aab99c4800dc4588d0e4e5f0"
         }
       },
-      "latestAssetCommit": "d1c43e5591e66fb5b8dc88fc7f2a15b2f69c8e5e",
+      "latestAssetCommit": "2c5f49af483bb1ebb4b54218bbce0e0e6d317683",
       "currentAssetsCommitted": true,
-      "limitations": "保留原白色袖形生成髮層、短裙暗內層及局部低襬重疊；後髮與衣裙自然入床椅。較大跨步的窄裙片摺線與拉伸旗標已由作者及獨立者看圖記錄，不宣稱零穿模。 新增長髮角度回饋尚待修正與獨立覆核。"
+      "limitations": "側髮上段和部分曲線仍入床；後髮根床下90mm原位保留，髮飾跟隨真髮束但可入床。原短裙暗內層、低腳端開口與衣裙入床保留。原idle/walk/run/sit旗標0/15/23/21逐bytes不變；lie原0、本版0，最大比值1.926→2.165。"
     },
     {
       "number": 17,
@@ -541,10 +539,10 @@
       "number": 19,
       "id": "chibi-anime-character",
       "label": "19 號 · 藍白鰭飾角色",
-      "status": "本輪修正已提交",
+      "status": "本輪修正已提交；長髮修正已發布",
       "roundRepair": "後蝴蝶結依相鄰髮域附著，改善後裙跟隨。",
       "roundPublished": true,
-      "revision": "20260913-five-r43",
+      "revision": "20260913-five-r57",
       "actions": [
         "idle",
         "walk",
@@ -555,16 +553,16 @@
       "assets": {
         "4k": {
           "file": "chibi-anime-character/character-4k.glb",
-          "sha256": "2c017a4c0867e3c5794338aa92d78b366e6de1c5648a6a94dff3893a42f12253"
+          "sha256": "3e9e260a13b00b8863d590ceeb0dfa264818900490a6b48100d5c35b4bb4b1fe"
         },
         "2k": {
           "file": "chibi-anime-character/character-2k.glb",
-          "sha256": "3fec7e9640a9f0849071d4734b6b9fe9765ba40d8e512a34740c182b2bf8e3a8"
+          "sha256": "2c74300c6ad31b5b823b1b43855a2a0a91d502741f1ad20bc4f6a9844d42aaf5"
         }
       },
-      "latestAssetCommit": "353586e33390a39de05cf15b9ec5d1e1888dc6a0",
+      "latestAssetCommit": "3076a9eeb7aaf85294bac264b63779313ed45734",
       "currentAssetsCommitted": true,
-      "limitations": "原髮層細碎暗面與短裙長度保留；坐姿及躺姿低腳端仍可見內腿，上視遮蔽保留，後髮與裙帶可自然入家具。"
+      "limitations": "保留原髮層細碎暗面、頸部髮層間隙、短裙長度與低腳端內腿可見；後髮與裙带仍可入家具。原idle/walk/run/sit旗標0/2/14/8逐bytes不變；lie0→0，最大比值15.019原值。小幅改善斜入角度，不追求中段全部床上。"
     },
     {
       "number": 20,
@@ -599,7 +597,7 @@
       "number": 21,
       "id": "chibi-anime-girl-clone1",
       "label": "21 號 · 紫髮花飾長裙角色",
-      "status": "本輪修正已提交；長髮躺姿待修正",
+      "status": "本輪修正已提交；長髮審查保留原樣",
       "roundRepair": "修正本隻後裙的走跑相位，讓鞋底從下擺自然露出。",
       "roundPublished": true,
       "revision": "20260913-five-r49",
@@ -622,7 +620,7 @@
       },
       "latestAssetCommit": "28f5deee42d5c667dbc62ffff721f48aa3037cb1",
       "currentAssetsCommitted": true,
-      "limitations": "保留原內裙深暗層、細小層面以及坐躺長髮衣片穿家具；不宣稱零穿透。 新增長髮角度回饋尚待修正與獨立覆核。"
+      "limitations": "保留原內裙深暗層、細小層面以及坐躺長髮衣片穿家具；不宣稱零穿透。 長髮審查完成；原遮蔽優先，保留發布姿態與髮尾入床限制。"
     },
     {
       "number": 22,
@@ -657,10 +655,10 @@
       "number": 23,
       "id": "chibi-fantasy-character",
       "label": "23 號 · 白金角飾大尾角色",
-      "status": "保留已發布版本",
+      "status": "保留已發布版本；長髮修正已發布",
       "roundRepair": "",
       "roundPublished": false,
-      "revision": "較早五動作版本",
+      "revision": "20260913-five-r59",
       "actions": [
         "idle",
         "walk",
@@ -671,22 +669,22 @@
       "assets": {
         "4k": {
           "file": "chibi-fantasy-character/character-4k.glb",
-          "sha256": "45a003b6fdc84b7780f8361eac5529b2f00440d72defc137e12d1978b5e500da"
+          "sha256": "89a8e22950d7c02aa3dbc16bec1aeb0013a28f364d129f2ed1e26f2b342cd23b"
         },
         "2k": {
           "file": "chibi-fantasy-character/character-2k.glb",
-          "sha256": "41dc8f99f1098076a037e87b7bd6b65f8a77c15d53a0da6ad4f790416d1c756e"
+          "sha256": "daab4068f32eb1b4dd5c641b614f08f6dd7beb9fb86ab9bf6cca8a64c29e6c44"
         }
       },
-      "latestAssetCommit": "814882c4c38ca6d2f03c30ba3324b286c39bcdf9",
+      "latestAssetCommit": "d4097621e9252950e307d1baa505f9e2d4e27c7d",
       "currentAssetsCommitted": true,
-      "limitations": "保留原造型、裙內層與自然髮衣交疊；各動作限制詳見目前證據。"
+      "limitations": "原長髮中末段、大尾與衣袍仍可入床；保留原短髮罩、角飾/耳掛與頸部細線間隙，不追求髮中段全浮床。原idle/walk/run/sit旗標0/4/15/15逐bytes不變；lie0→0，最大比值3.107原值。原寬褲膝胯摺線、袍邊暗內層與低腳端內層保留。"
     },
     {
       "number": 24,
       "id": "chibi-girl",
       "label": "24 號 · 企鵝帽雙馬尾女孩",
-      "status": "保留已發布版本",
+      "status": "保留已發布版本；長髮躺姿待修正",
       "roundRepair": "",
       "roundPublished": false,
       "revision": "較早五動作版本",
@@ -709,7 +707,7 @@
       },
       "latestAssetCommit": "355e468c1f8558d9941c2c95ba65583d1078a392",
       "currentAssetsCommitted": true,
-      "limitations": "跑步寬袖後薄角有局部尖摺，前短襬與企鵝玩偶腳邊少量相交；坐躺髮衣自然入椅床，前襬小幅平壓後，低腳端白內層、大腿仍明顯，接受原短裙長度限制，不宣稱完全遮蔽。保留原形與小幅整臂，不追求完美家具互動。"
+      "limitations": "跑步寬袖後薄角有局部尖摺，前短襬與企鵝玩偶腳邊少量相交；坐躺髮衣自然入椅床，前襬小幅平壓後，低腳端白內層、大腿仍明顯，接受原短裙長度限制，不宣稱完全遮蔽。保留原形與小幅整臂，不追求完美家具互動。 新增長髮角度回饋尚待修正與獨立覆核。"
     },
     {
       "number": 25,
@@ -805,11 +803,19 @@
       "label": "長髮躺姿角度：保留髮束原形，小幅向身體側靠",
       "status": "pending",
       "targetNumbers": [
-        21,
-        25,
-        16,
+        2,
+        5,
+        6,
+        9,
+        11,
         14,
-        15
+        15,
+        16,
+        19,
+        21,
+        23,
+        24,
+        25
       ],
       "reviewedNumbers": [
         11,
@@ -823,7 +829,35 @@
         26,
         27
       ],
-      "prototypeNumber": 4
+      "prototypeNumber": 4,
+      "naturalPosePriority": "自然頭頸及原遮蔽優先，不為數值貼床造成頭頸向下過轉；允許小背隙與更多髮尾入床。",
+      "characterOutcomes": {
+        "21": {
+          "status": "reviewed-kept-original",
+          "label": "長髮審查完成；原遮蔽優先，保留發布姿態與髮尾入床限制。",
+          "hairImprovementPublished": false
+        },
+        "15": {
+          "status": "published",
+          "label": "長髮小幅側靠已發布供檢視；保留原髮束與自然限制。",
+          "hairImprovementPublished": true
+        },
+        "16": {
+          "status": "published",
+          "label": "長髮小幅側靠已發布供檢視；保留原髮束與自然限制。",
+          "hairImprovementPublished": true
+        },
+        "19": {
+          "status": "published",
+          "label": "長髮小幅側靠已發布供檢視；保留原髮束與自然限制。",
+          "hairImprovementPublished": true
+        },
+        "23": {
+          "status": "published",
+          "label": "長髮小幅側靠已發布供檢視；保留原髮束與自然限制。",
+          "hairImprovementPublished": true
+        }
+      }
     }
   ]
 }

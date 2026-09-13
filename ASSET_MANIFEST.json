@@ -1,11 +1,11 @@
 {
-  "reviewVersion": "20260913-five-r54",
+  "reviewVersion": "20260913-five-r59",
   "characters": 27,
   "files": [
     {
       "file": "viewer.js",
-      "bytes": 623474,
-      "sha256": "cd0e03422ff3b3ef9cc7c0615d9c62ad887b48622a223c39781a84486a21aa47"
+      "bytes": 623500,
+      "sha256": "1bb14f101d82a716b1d02dd19ccafedafb299233756b902521a8e6d23edd6c87"
     },
     {
       "file": "anime-girl/character-4k.glb",
@@ -54,13 +54,13 @@
     },
     {
       "file": "anime-butterfly-character/character-4k.glb",
-      "bytes": 8158964,
-      "sha256": "cd7a860b1dd698aaa1a9370cefedfed3ed35bc6126e1ae0a43e1439ae9bf88f7"
+      "bytes": 8160396,
+      "sha256": "061c89205e0f89ccd07b926b4fa83b45089767a088d4b3b1a3ef4f688bbf1a61"
     },
     {
       "file": "anime-butterfly-character/character-2k.glb",
-      "bytes": 4274836,
-      "sha256": "d37eb4978d653c3eb7ccfc3bcfb74b4336774bbf0793d0210c7c0f2d4114c7b7"
+      "bytes": 4276268,
+      "sha256": "10f7c60dc7e952dfda27bb3393a6780eda17096c75b74d7a97507b60cfd69fb5"
     },
     {
       "file": "anime-butterfly-character/source.glb",
@@ -219,13 +219,13 @@
     },
     {
       "file": "anime-chibi-character/character-4k.glb",
-      "bytes": 8196760,
-      "sha256": "dcbe94bb0116a02aba7008e19be8dfe037c09a26b86f308c000b21972f8b84cd"
+      "bytes": 8196888,
+      "sha256": "2cfe502427b076797196bb7975104f15574e345e0643a662422672532bd1b4bc"
     },
     {
       "file": "anime-chibi-character/character-2k.glb",
-      "bytes": 4906176,
-      "sha256": "2ddf366527a067d4057961e9cdd981f929d3254f9e61e31fafb2ed9dc99366ec"
+      "bytes": 4906304,
+      "sha256": "ab15261e9b660ce48f67caadef11b17c3051e225b7cd3dd983ad2abc4c041360"
     },
     {
       "file": "anime-chibi-character/source.glb",
@@ -234,13 +234,13 @@
     },
     {
       "file": "anime-chibi-girl/character-4k.glb",
-      "bytes": 6505332,
-      "sha256": "cdf1abe742cbd7132790630a27b15670a62292ee9730a7d2f385b34059ce9df5"
+      "bytes": 6505776,
+      "sha256": "15027a5f0adceb2dcdd9919ba8294415dad65c4e5f1ce22374582be1554e1b9e"
     },
     {
       "file": "anime-chibi-girl/character-2k.glb",
-      "bytes": 3103156,
-      "sha256": "f5c02cbddabfd70ef030090265d3f5b80896d3072ba3f58dfb83097cb5154d62"
+      "bytes": 3103600,
+      "sha256": "605f6756945c5ff3f48caca9ad2c0ddaaa77b892aab99c4800dc4588d0e4e5f0"
     },
     {
       "file": "anime-chibi-girl/source.glb",
@@ -279,13 +279,13 @@
     },
     {
       "file": "chibi-anime-character/character-4k.glb",
-      "bytes": 5817724,
-      "sha256": "2c017a4c0867e3c5794338aa92d78b366e6de1c5648a6a94dff3893a42f12253"
+      "bytes": 5818008,
+      "sha256": "3e9e260a13b00b8863d590ceeb0dfa264818900490a6b48100d5c35b4bb4b1fe"
     },
     {
       "file": "chibi-anime-character/character-2k.glb",
-      "bytes": 2700444,
-      "sha256": "3fec7e9640a9f0849071d4734b6b9fe9765ba40d8e512a34740c182b2bf8e3a8"
+      "bytes": 2700728,
+      "sha256": "2c74300c6ad31b5b823b1b43855a2a0a91d502741f1ad20bc4f6a9844d42aaf5"
     },
     {
       "file": "chibi-anime-character/source.glb",
@@ -339,13 +339,13 @@
     },
     {
       "file": "chibi-fantasy-character/character-4k.glb",
-      "bytes": 7118160,
-      "sha256": "45a003b6fdc84b7780f8361eac5529b2f00440d72defc137e12d1978b5e500da"
+      "bytes": 7118476,
+      "sha256": "89a8e22950d7c02aa3dbc16bec1aeb0013a28f364d129f2ed1e26f2b342cd23b"
     },
     {
       "file": "chibi-fantasy-character/character-2k.glb",
-      "bytes": 3251356,
-      "sha256": "41dc8f99f1098076a037e87b7bd6b65f8a77c15d53a0da6ad4f790416d1c756e"
+      "bytes": 3251676,
+      "sha256": "daab4068f32eb1b4dd5c641b614f08f6dd7beb9fb86ab9bf6cca8a64c29e6c44"
     },
     {
       "file": "chibi-fantasy-character/source.glb",
