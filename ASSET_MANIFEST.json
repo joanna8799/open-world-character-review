@@ -1,11 +1,11 @@
 {
-  "reviewVersion": "20260913-five-r53",
+  "reviewVersion": "20260913-five-r54",
   "characters": 27,
   "files": [
     {
       "file": "viewer.js",
-      "bytes": 623540,
-      "sha256": "5299136808a8e2b354aab7e582ff70fd80d604a519176ceb2cd189934e6003f0"
+      "bytes": 623474,
+      "sha256": "cd0e03422ff3b3ef9cc7c0615d9c62ad887b48622a223c39781a84486a21aa47"
     },
     {
       "file": "anime-girl/character-4k.glb",
@@ -54,13 +54,13 @@
     },
     {
       "file": "anime-butterfly-character/character-4k.glb",
-      "bytes": 8157592,
-      "sha256": "ede77b0d95b1643bda316f4b3387c491cb89e70ebcfbd95b4ecf129a62d13121"
+      "bytes": 8158964,
+      "sha256": "cd7a860b1dd698aaa1a9370cefedfed3ed35bc6126e1ae0a43e1439ae9bf88f7"
     },
     {
       "file": "anime-butterfly-character/character-2k.glb",
-      "bytes": 4273464,
-      "sha256": "2876e41a79303fbced25df883fc275716a34180e63c2509cb1045d3d23e55640"
+      "bytes": 4274836,
+      "sha256": "d37eb4978d653c3eb7ccfc3bcfb74b4336774bbf0793d0210c7c0f2d4114c7b7"
     },
     {
       "file": "anime-butterfly-character/source.glb",

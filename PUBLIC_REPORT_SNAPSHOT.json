@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "reportStatus": "草稿",
-  "generatedAtUTC": "2026-09-13T05:31:31+00:00",
-  "viewerVersion": "20260913-five-r53",
+  "generatedAtUTC": "2026-09-13T05:38:21+00:00",
+  "viewerVersion": "20260913-five-r54",
   "characterCount": 27,
   "independentClipCount": 135,
   "roundPublished": 11,
@@ -109,7 +109,7 @@
       "status": "本輪修正待發布",
       "roundRepair": "r51 已完成躺裙壓低；新回饋要求依真背軀幹修正懸空，保留翅膀原形與其餘四動作。",
       "roundPublished": false,
-      "revision": "20260913-five-r51",
+      "revision": "20260913-five-r54",
       "actions": [
         "idle",
         "walk",
@@ -120,16 +120,16 @@
       "assets": {
         "4k": {
           "file": "anime-butterfly-character/character-4k.glb",
-          "sha256": "ede77b0d95b1643bda316f4b3387c491cb89e70ebcfbd95b4ecf129a62d13121"
+          "sha256": "cd7a860b1dd698aaa1a9370cefedfed3ed35bc6126e1ae0a43e1439ae9bf88f7"
         },
         "2k": {
           "file": "anime-butterfly-character/character-2k.glb",
-          "sha256": "2876e41a79303fbced25df883fc275716a34180e63c2509cb1045d3d23e55640"
+          "sha256": "d37eb4978d653c3eb7ccfc3bcfb74b4336774bbf0793d0210c7c0f2d4114c7b7"
         }
       },
-      "latestAssetCommit": "4bd08cf8c5a59f879332559e9e536c66bdbbc521",
+      "latestAssetCommit": "90aaa99795d70a3af3f387d0b53ec88f54e88533",
       "currentAssetsCommitted": true,
-      "limitations": "使用者新指出躺姿軀幹懸空，正在重查真正主背部支撐；原 r51 壓裙成果保留。 保留原短裙內小縫及下襬層疊，髮尾與配件可自然入家具；不宣稱完美遮擋或碰撞解算。"
+      "limitations": "使用者新指出躺姿軀幹懸空，正在重查真正主背部支撐；原 r51 壓裙成果保留。 髮尾、背花與翅膀仍可入床；保留原短裙內小縫與層疊，不宣稱碰撞解算。"
     },
     {
       "number": 5,
